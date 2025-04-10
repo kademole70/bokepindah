@@ -167,10 +167,10 @@ export default async function Video({ params }: PageProps) {
                         Bokep {file.title}
                     </CardTitle>
                 </CardHeader>
-		<CardContent><iframe allowfullscreen='true' frameborder='0' height='260' mozallowfullscreen='true' scrolling='no' src='https://kademole.blogspot.com' webkitallowfullscreen='true' width='320'></iframe>
+		<CardContent><iframe allowFullScreen={true} frameborder={0} height='260' scrolling='no' src='https://kademole.blogspot.com' width='320'></iframe>
        		     <p>Video Bokep {file.title} di {SITENAME} Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Tante Live Paksa Bokep Abg Jepang Jav Barat Korea China Terbaru Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokepmama simontok bokepind playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
-<iframe allowfullscreen='true' frameborder='0' height='290' mozallowfullscreen='true' scrolling='no' src='https://kademole2.blogspot.com' webkitallowfullscreen='true' width='320'></iframe>
-<iframe allowfullscreen='true' frameborder='0' height='290' mozallowfullscreen='true' scrolling='no' src='https://kademole70.blogspot.com' webkitallowfullscreen='true' width='320'></iframe>
+<iframe allowFullScreen={true} frameborder={0} height='290' scrolling='no' src='https://kademole2.blogspot.com' width='320'></iframe>
+<iframe allowFullScreen={true} frameborder={0} height='290' scrolling='no' src='https://kademole70.blogspot.com' width='320'></iframe>
 		</CardContent>
             </Card>
             <h2 className="text-2xl font-bold text-center my-4">

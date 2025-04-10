@@ -160,6 +160,7 @@ export default async function Video({ params }: PageProps) {
                 title={file.title}
                 frameBorder={0}
                 allowFullScreen={true}
+		disableRemotePlayback={true}
             ></iframe>
             <Card className="mx-2 mb-8">
                 <CardHeader>
